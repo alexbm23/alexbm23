@@ -1,4 +1,5 @@
 ### Hi there 👋
+Mi nombre es Alejandro Barnestein, tengo 21 años y estudio el Grado Superior de Desarrollo de Aplicaciones Web en el centro CPIFP "Nuevo", en el Parque Tecnológico de Andalucía, Campanillas
 
 <!--
 **alexbm23/alexbm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
