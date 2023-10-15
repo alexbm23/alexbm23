@@ -1,7 +1,7 @@
 ### Hi there 👋
 Mi nombre es Alejandro Barnestein, tengo 21 años y estudio el Grado Superior de Desarrollo de Aplicaciones Web en el centro CPIFP "Nuevo", en el Parque Tecnológico de Andalucía, Campanillas
 
-Uno de mis trabajos que he hecho en clase es una página web tributo a un Colectivo Artístico llamado "Cutemobb", aquí se le puede dar un vistazo: [www.github.io](https://alexbm23.github.io/cutemobb/)
+Uno de mis trabajos que he hecho en clase es una página web tributo a un Colectivo Artístico llamado "Cutemobb", está hecha con HTML, CSS y JS, aquí se le puede dar un vistazo: [www.github.io](https://alexbm23.github.io/cutemobb/)
 
 <!--
 **alexbm23/alexbm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
