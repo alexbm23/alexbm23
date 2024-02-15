@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mi nombre es Alejandro Barnestein, tengo 21 años y estudio el Grado Superior de Desarrollo de Aplicaciones Web en el centro CPIFP "Nuevo", en el Parque Tecnológico de Andalucía, Campanillas
+Mi nombre es Alejandro Barnestein, tengo 21 años y estudio el Grado Superior de Desarrollo de Aplicaciones Web en el centro CPIFP "Alan Turing", en el Parque Tecnológico de Andalucía, Campanillas
 
 Uno de mis trabajos que he hecho en clase es una página web tributo a un Colectivo Artístico llamado "Cutemobb", está hecha con HTML, CSS y JS, aquí se le puede dar un vistazo: [www.github.io](https://alexbm23.github.io/cutemobb/)
 
